@@ -4,6 +4,3 @@
 
 
 ERD 다이어그램<br>
-
-![image](https://github.com/sunggun1/book/assets/17981550/af938e86-3edb-44ad-8d64-8558f72233e3)
-
